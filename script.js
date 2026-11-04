@@ -43,7 +43,7 @@
         {k:"n_gourmet", t:"Área gourmet", d:"Bancada com banquetas, churrasqueira, fogão a lenha, forno a lenha e fogão industrial, com vista para a piscina.", pos:"72% 50%"},
         {k:"n_eventos", t:"Área para eventos", d:"Espaço coberto e aberto para a turma, equipado com mesa de bilhar e mesa de pebolim."},
         {k:"n_sala",    t:"Sala de estar", d:"Sala com sofá e internet Wi-Fi, para descansar entre um mergulho e outro."},
-        {k:"n_q1",      t:"Quartos", d:"Três quartos, com capacidade para 20 pessoas. Camas e beliches com ventilador de teto."},
+        {k:"n_q1",      t:"Quartos", d:"Três quartos, com capacidade para 18 pessoas para dormir. Camas e beliches com ventilador de teto."},
         {k:"n_coz1",    t:"Cozinha", d:"Já equipada com panelas e utensílios, geladeira e fogão."}
       ]
     }
